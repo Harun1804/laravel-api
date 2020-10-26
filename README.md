@@ -88,5 +88,5 @@ php artisan serve
 ```
 
 # Tutrial Penggunaan API
-<br>
+1. Klik Link Dibawah untuk membuka dokumentasi <br>
 [Buka Dokumentasi](https://documenter.getpostman.com/view/6505899/TVYF9zS5)
